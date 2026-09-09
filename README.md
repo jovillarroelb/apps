@@ -1,4 +1,4 @@
-# [ESP] SMERA | Portal de Aplicaciones
+# SMERA | Portal de Aplicaciones
 
 Repositorio base para la gestión centralizada del subdominio `apps.smera.cl`. 
 
@@ -8,7 +8,9 @@ Este proyecto actúa como el **Directorio Raíz (Portal de Acceso)** de las apli
 
 Este repositorio es de propiedad de Jorge Villarroel y cualquier pregunta o sugerencia, se puede hacer directamente a jvillarroel@smera.cl
 
-# [ENU] SMERA | Applications Portal
+------------------------------------
+
+# SMERA | Applications Portal
 
 Base repository for centralized management of the `apps.smera.cl` subdomain.
 
